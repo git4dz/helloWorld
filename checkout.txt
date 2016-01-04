@@ -1,6 +1,7 @@
 line 0 from vim
+hub
 line 1
-line 2
-line 4 offline and online
+hub
+line 4 hub
 line 3
 
