@@ -1,6 +1,6 @@
 line 0 from vim
 line 1
 line 2
-line 4 from github.com
+line 4 offline
 line 3
 
