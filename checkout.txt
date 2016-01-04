@@ -1,6 +1,8 @@
 git
 line 0 from vim
+hub
 line 1
 line 2
+line 4 hub
 line 3
 GIT
